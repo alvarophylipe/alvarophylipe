@@ -12,7 +12,7 @@
 
 ---
 <p>
-  <img src = 'https://i.imgur.com/EyST2go.gif' width = '200' align = 'right' >
+  <img src = 'https://i.imgur.com/EyST2go.gif' width = '190' align = 'right' >
 </p>
 
 
