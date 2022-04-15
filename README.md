@@ -27,16 +27,15 @@
 ---
 <div align = 'center'>
   <h3>🛠 Tools & Tecnologies </h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = '50'> &nbsp
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' width = '50'> &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width = '48'> &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width = '50'> &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  width = '55'> &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = '50'> &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width = '50'> &nbsp
-  <img src = 'https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png' width = '50'> &nbsp
-  <img src = 'https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png' width = '50'> &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width='50'> &nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = '50'> &nbsp &nbsp
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' width = '50'> &nbsp &nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width = '48'> &nbsp &nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width = '50'> &nbsp &nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  width = '55'> &nbsp &nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = '50'> &nbsp &nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width = '50'> &nbsp &nbsp
+  <img src = 'https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png' width = '50'> &nbsp &nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width='50'> &nbsp &nbsp
 
 </div>
 
