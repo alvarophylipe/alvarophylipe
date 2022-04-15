@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width = '50'> &nbsp &nbsp
   <img src = 'https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png' width = '50'> &nbsp &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width='50'> &nbsp &nbsp
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width = '50'> &nbsp &nbsp
 </div>
 
 ---
