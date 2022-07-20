@@ -1,28 +1,24 @@
----
-<div align = 'center'>
-  <img align = "left" src = 'https://i.imgur.com/xbrJ55O.gif'>
-  <img src ='https://i.imgur.com/UTajLI5.gif'>
-  <img align = "right" src = 'https://i.imgur.com/B37OIeL.gif'>
-</div>
 
 ---
 <div align = 'center'>
-  <p>👋 Welcome to my GitHub, I'm Alvaro Phylipe!!</p>
+  <h3>
+    👋 Welcome to my GitHub, I'm Alvaro Phylipe!
+  </h3>
 </div>
 
 ---
 <p>
-  <img src = 'https://i.imgur.com/EyST2go.gif' width = '175' align = 'right' >
+  <img src = 'https://i.imgur.com/EyST2go.gif' width = '175' align = 'right'>
 </p>
 
 
 - 🔭 I’m currently working on my course and personal projects
 - 🌱 I’m currently learning about:
-   - **Machine Learning Operation**
-   - **Databricks**
-   - **Statistics**
-- 🤔 I’m looking for help with Machine Learning Parameters
-- 🎓 I'm a Software Engineering Student at UNINTER
+   - **Software Engineering**
+   - **Landing Pages**
+   - **Data Science w/ Python**
+- 🤔 I’m looking for help with my **life**
+- 🎓 I'm a **Software Engineering** Student at **UNINTER**
 
 ---
 <div align = 'center'>
