@@ -7,40 +7,8 @@
 </div>
 
 ---
-<p>
-  <img src = 'https://i.imgur.com/EyST2go.gif' width = '175' align = 'right'>
-</p>
-
-
-- 🔭 I’m currently working on my course and personal projects
-- 🌱 I’m currently learning about:
-   - **Software Engineering**
-   - **Landing Pages**
-   - **Data Science w/ Python**
-- 🤔 I’m looking for help with my **life**
-- 🎓 I'm a **Software Engineering** Student at **UNINTER**
-
----
 <div align = 'center'>
-  <h3>🛠 Tools & Tecnologies </h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = '50'> &nbsp &nbsp
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' width = '50'> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width = '48'> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width = '50'> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  width = '55'> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = '50'> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width = '50'> &nbsp &nbsp
-  <img src = 'https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png' width = '50'> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width='50'> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width = '50'> &nbsp &nbsp
-</div>
-
----
-<div align = 'center'>
-  <h3>📊 Github Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=alvarophylipe&show_icons=true&theme=merko"> &nbsp
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alvarophylipe&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
-  <br></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alvarophylipe&theme=merko&date_format=M%20j%5B%2C%20Y%5D"> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarophylipe&layout=compact&theme=merko">
 </div>
 
